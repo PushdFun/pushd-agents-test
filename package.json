@@ -1,0 +1,8 @@
+{
+  "name": "pushd-agents-test",
+  "version": "0.1.0",
+  "description": "A small test project PUSHD's agents work on.",
+  "type": "module",
+  "scripts": { "test": "node --test" },
+  "dependencies": { "lodash": "4.17.15", "axios": "0.21.0" }
+}
